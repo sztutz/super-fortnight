@@ -10,11 +10,41 @@ using System.Windows.Forms;
 
 namespace DataStructureWikiApplication2._0
 {
-    public partial class Form1 : Form
+    public partial class DataStructureWiki : Form
     {
-        public Form1()
+        public DataStructureWiki()
         {
             InitializeComponent();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TextBoxSearch_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TextBoxDefinition_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ButtonEdit_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
